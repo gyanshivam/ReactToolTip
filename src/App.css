@@ -1,0 +1,128 @@
+.App {
+  width: 94vw;
+  height: 94vh;
+}
+.codingNinja {
+  position: relative;
+  left: 40%;
+  text-decoration: underline;
+}
+.grp-name {
+  position: relative;
+  top: -30px;
+  left: 38%;
+}
+.topFirst {
+  position: relative;
+  top: 0%;
+  left: 50%;
+}
+.rightSecond {
+  position: relative;
+  top: -20px;
+  left: 60%;
+}
+.downFourth {
+  position: relative;
+  top: 0%;
+  left: 50%;
+}
+.leftFounth {
+  position: relative;
+  top: 20%;
+  left: 40%;
+}
+/* stylings for buttons  */
+.btn-position {
+  margin-left: 10%;
+  width: 80%;
+  margin-left: none;
+  height: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.grp-name {
+  margin-top: 20px;
+  font-style: Cursive;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+/* buttons stylings  */
+.btn {
+  height: 60%;
+  margin-top: 1.1%;
+  width: 8%;
+  border: 3px solid grey;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.2);
+}
+/* button after hover effect  */
+#button-container {
+  width: 23%;
+  height: 15%;
+  margin-left: 42%;
+  margin-top: 18%;
+}
+
+/* hover after effect  */
+
+.hover-btn {
+  height: 100%;
+  width: 100%;
+  font-size: 2.5rem;
+}
+/* stylings for top button content position  */
+.top {
+  height: 30%;
+  width: 50%;
+  margin-top: -50%;
+  margin-left: 20%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(104, 23, 227, 0.1);
+}
+/* stylings for right  button content position */
+.right {
+  height: 30%;
+  width: 50%;
+  margin-top: -22%;
+  margin-left: 105%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(104, 23, 227, 0.1);
+}
+
+/* stylings for down button content position  */
+.down {
+  height: 30%;
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 20%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(104, 23, 227, 0.1);
+}
+/* stylings for left button content position  */
+.left {
+  height: 30%;
+  width: 50%;
+  margin-top: -22%;
+  margin-left: -60%;
+  padding: 6px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(104, 23, 227, 0.1);
+}
+.active {
+  background-color: rgba(104, 23, 227, 0.3);
+}
