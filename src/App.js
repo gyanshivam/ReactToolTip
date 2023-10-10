@@ -36,7 +36,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1 className="codingNinja">Coding Ninja Tooltip Project</h1>
+        <h1 className="codingNinja">A Basic ToolTip Project</h1>
         <div className="btn-position">
           <div className="grp-name">
             <h3>Chose a button to sellect position</h3>{" "}
