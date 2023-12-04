@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gyanshivam/ReactToolTip.git/static/css/main.87e35589.css",
+    "main.js": "/gyanshivam/ReactToolTip.git/static/js/main.446c4da5.js",
+    "index.html": "/gyanshivam/ReactToolTip.git/index.html",
+    "main.87e35589.css.map": "/gyanshivam/ReactToolTip.git/static/css/main.87e35589.css.map",
+    "main.446c4da5.js.map": "/gyanshivam/ReactToolTip.git/static/js/main.446c4da5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e35589.css",
+    "static/js/main.446c4da5.js"
+  ]
+}
